@@ -9,7 +9,7 @@
 <br />
 
 ## Working with :
-- Languages : [Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) [Angular](https://img.shields.io/badge/-angular-cf1d1d?style=plastic&logo=angular)
+- Languages : ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Angular](https://img.shields.io/badge/-angular-cf1d1d?style=plastic&logo=angular)
 
 
 ### Connect with me:
