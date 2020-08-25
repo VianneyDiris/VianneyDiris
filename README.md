@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Vianney Diris.
 
-<!--
-**VianneyDiris/VianneyDiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, geek, and gamer!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Angular
+- 👯 I want to help other to learn how to code
+- 🥅 2020 Goals: to sign a contract and have a job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## Working with :
+- Languages : [Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) [Angular](https://img.shields.io/badge/-angular-cf1d1d?style=plastic&logo=angular)
+
+
+### Connect with me:
+[<img align="left" alt="vianney Diris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/vianney-diris/
