@@ -9,13 +9,13 @@
 
 ### Working with :
 
-- languages :
+- languages :  
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=java) ![spring](https://img.shields.io/badge/-Spring-0b8f04?style=plastic&logo=spring) ![Angular](https://img.shields.io/badge/-Angular-cf1d1d?style=plastic&logo=angular) ![typescript](https://img.shields.io/badge/-Typescript-5c81d6?style=plastic&logo=typescript) ![html5](https://img.shields.io/badge/-HTML5-8c4506?style=plastic&logo=html5) ![css3](https://img.shields.io/badge/-CSS3-5f62fa?style=plastic&logo=css3) ![bootstrap](https://img.shields.io/badge/-Bootstrap-4d0175?style=plastic&logo=bootstrap) 
 
-- tools :
+- tools :  
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-546eab?style=plastic&logo=postgresql) ![mysql](https://img.shields.io/badge/-MySQL-e68609?style=plastic&logo=mysql) ![docker](https://img.shields.io/badge/-Docker-042f91?style=plastic&logo=docker)   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
-- IDE and editor :
+- IDE and editor :  
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea&logoColor=ffffff) ![vscode](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
 
 
