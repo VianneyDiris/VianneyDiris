@@ -15,7 +15,7 @@
 
 ![VianneyDiris github stats](https://github-readme-stats.vercel.app/api?username=VianneyDiris&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianneyDiris&layout=compact)](https://github.com/VianneyDiris/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianneyDiris&layout=compact&theme=radical)](https://github.com/VianneyDiris/github-readme-stats)
 
 ### Connect with me:
 [<img align="left" alt="vianney Diris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
