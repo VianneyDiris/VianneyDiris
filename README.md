@@ -16,7 +16,7 @@
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-546eab?style=plastic&logo=postgresql) ![mysql](https://img.shields.io/badge/-MySQL-e68609?style=plastic&logo=mysql) ![docker](https://img.shields.io/badge/-Docker-042f91?style=plastic&logo=docker)   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 - IDE and editor :  
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea&logoColor=ffffff) ![vscode](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
+![Eclipse](https://img.shields.io/badge/-Eclipse-2e2a82?style=plastic&logo=eclipse) ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea&logoColor=ffffff) ![vscode](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) 
 
 
 ### Github stats :
