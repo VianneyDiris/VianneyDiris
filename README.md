@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular
 - 👯 I want to help other to learn how to code
-- 🥅 2020 Goals: to sign a contract and have a job
+- 🥅 2021 Goals: to sign a contract and have a job
 
 
 ### Working with :
